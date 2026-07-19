@@ -1,7 +1,5 @@
 streamlit
-pdfplumber
-spacy
-sentence-transformers
-scikit-learn
 pandas
 numpy
+pdfplumber
+scikit-learn

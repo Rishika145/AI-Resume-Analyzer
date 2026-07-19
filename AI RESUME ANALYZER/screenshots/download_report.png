@@ -1,0 +1,31 @@
+
+=============================
+      AI RESUME ANALYZER
+=============================
+
+Candidate Details
+-----------------
+Name : John Doe
+Email
+Email : john.doe@email.com
+Phone : +91-9876543210
+
+Extracted Skills
+----------------
+Django, Git, GitHub, JavaScript, Machine Learning, Pandas, Python, React, SQL
+
+ATS Score
+---------
+42.96 %
+
+Missing Skills
+--------------
+scientist
+
+AI Suggestions
+--------------
+- Your resume has a low ATS match. Add more keywords from the job description.
+- Consider adding these skills if you have them: scientist
+- Use action verbs such as Developed, Designed, Implemented, and Optimized.
+- Include measurable achievements (for example, 'Improved accuracy by 20%').
+- Keep your resume concise and ATS-friendly.
